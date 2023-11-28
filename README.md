@@ -29,7 +29,7 @@ Este repositorio contiene una serie de scripts en Python que abordan diversas ta
 
 5. Elabora un programa que convierta una tupla de cadenas de texto en una única cadena, separando cada elemento con un espacio. [Ejercicicio 5](https://github.com/byenmalmao/Tarea_Final/blob/main/Tuplas/Exercise%20-%205.py)
 
-###Diccionarios
+### Diccionarios
 1. Crea un programa que solicite al usuario el nombre y la edad de varias personas, almacene esta información en un diccionario y luego imprima el diccionario. [Ejercicicio 1](https://github.com/byenmalmao/Tarea_Final/blob/main/Diccionarios/Exercise%20-%201.py)
 
 2. Desarrolla un programa que elimine un elemento específico de un diccionario y luego imprima el diccionario actualizado. [Ejercicicio 2](https://github.com/byenmalmao/Tarea_Final/blob/main/Diccionarios/Exercise%20-%202.py)
