@@ -60,11 +60,12 @@ Este repositorio contiene una serie de scripts en Python que abordan diversas ta
 9. Desarrollar una función que reciba dos números enteros e indique si el segundo número es múltiplo del primero. [Ejercicicio 9](https://github.com/byenmalmao/Tarea_Final/blob/main/Funciones%20Definidas%20por%20el%20Usuario/Exercise%20-%209.py)
 
 10. Desarrollar una función que reciba una calificación numérica y retorne la letra equivalente. Las calificaciones contenidas en alguno de estos rangos debe retornar la siguiente calificación literal:
-	De 90 – 100: A
-	De 80 – 89: B
-	De 70 – 79: C
-	De 60 – 69: D
-	Menor que 60: F
+	- De 90 – 100: A
+	- De 80 – 89: B
+	- De 70 – 79: C
+	- De 60 – 69: D
+	- Menor que 60: F
+
 	Finalmente, realiza un programa que reciba 10 calificaciones y que las imprima con su calificación literal equivalente (utilizar la función previamente desarrollada). [Ejercicicio 10](https://github.com/byenmalmao/Tarea_Final/blob/main/Funciones%20Definidas%20por%20el%20Usuario/Exercise%20-%2010.py)
 <p>
 
@@ -72,6 +73,7 @@ Este repositorio contiene una serie de scripts en Python que abordan diversas ta
 
 #### Este Proyecto fue hecho por:
 [Enmanuel González](https://github.com/byenmalmao) 2022-0228
+
 [Mariely Sánchez](https://github.com/m4ry11) 2022-0223
 
 Como práctica final de Algoritmos Estructurados en UCATECI.
