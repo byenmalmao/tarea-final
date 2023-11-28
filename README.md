@@ -40,7 +40,7 @@ Este repositorio contiene una serie de scripts en Python que abordan diversas ta
 
 5. Elabora un programa que, dado un diccionario de productos y sus precios, calcule el precio total de una lista de productos ingresada por el usuario. [Ejercicicio 5](https://github.com/byenmalmao/Tarea_Final/blob/main/Diccionarios/Exercise%20-%205.py)
 
-###Funciones Definidas por el Usuario
+### Funciones Definidas por el Usuario
 1. Escribe una función que calcule el factorial de un número entero dado. [Ejercicicio 1](https://github.com/byenmalmao/Tarea_Final/blob/main/Funciones%20Definidas%20por%20el%20Usuario/Exercise%20-%201.py)
 
 2. Diseña una función que genere los primeros n términos de la secuencia Fibonacci. [Ejercicicio 2](https://github.com/byenmalmao/Tarea_Final/blob/main/Funciones%20Definidas%20por%20el%20Usuario/Exercise%20-%202.py)
