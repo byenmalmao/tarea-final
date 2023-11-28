@@ -70,7 +70,7 @@ Este repositorio contiene una serie de scripts en Python que abordan diversas ta
 
 </p>
 
-#####Este Proyecto fue hecho por:
+#### Este Proyecto fue hecho por:
 [Enmanuel González](https://github.com/byenmalmao) 2022-0228
 [Mariely Sánchez](https://github.com/m4ry11) 2022-0223
 
