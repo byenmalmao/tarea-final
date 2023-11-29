@@ -10,4 +10,4 @@ for par in dicc_nome:
     diccionario_personas[nombre] = int(edad)
 
 #Imprimir el diccionario
-print("Diccionario de personas: ", diccionario_personas)
+print("Diccionario de personas: ", diccionario_personas) 
