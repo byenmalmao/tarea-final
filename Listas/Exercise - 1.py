@@ -8,4 +8,4 @@ mayor = max(lista_numeros)
 
 #Imprimir ambos valores
 print("El menor de la lista es: ", menor)
-print("El mayor de la lista es: ", mayor)
+print("El mayor de la lista es: ", mayor)  
