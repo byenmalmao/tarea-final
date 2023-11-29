@@ -76,4 +76,6 @@ Este repositorio contiene una serie de scripts en Python que abordan diversas ta
 
 [Mariely Sánchez](https://github.com/m4ry11) 2022-0223
 
+[Jenffry Rodríguez](https://github.com/iiYen16) 2021-0750
+
 Como práctica final de Algoritmos Estructurados en UCATECI.
