@@ -11,3 +11,5 @@ tuplas = [(nombre, edad) for nombre, edad in zip(nombres, edades)]
 
 # Imprime la lista de tuplas
 print(tuplas)
+
+etoces= 23
